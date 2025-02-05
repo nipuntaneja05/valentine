@@ -25,7 +25,7 @@ export default function Letter() {
           happiest moments.
           <br />
           <br />
-          Our journey together has been nothing short of extraordinary. We&apos;ve weathered storms and basked in sunshine,
+          Our journey together has been nothing short of extraordinary. We've weathered storms and basked in sunshine,
           each experience strengthening the bond we share. Your unwavering support and boundless love have been my
           anchor and my wings.
           <br />

@@ -190,7 +190,7 @@ export default function Home() {
                       ✖
                     </button>
                     <p className="text-2xl text-love-600 font-bold">
-                      BITCH! Shut up, that's not allowed.
+                      BITCH! Shut up, that&apos;s not allowed.
                     </p>
                   </motion.div>
                 </motion.div>
