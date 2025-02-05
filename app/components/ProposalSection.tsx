@@ -115,7 +115,7 @@ export default function ProposalSection() {
             transition={{ duration: 0.5 }}
           >
             <p className="text-2xl text-love-red font-semibold">
-              I love you! Let's start our forever together! ❤️
+              I love you! Let&apos;s start our forever together! ❤️
             </p>
           </motion.div>
         )}

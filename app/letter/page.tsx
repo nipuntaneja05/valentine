@@ -25,7 +25,7 @@ export default function Letter() {
           happiest moments.
           <br />
           <br />
-          Our journey together has been nothing short of extraordinary. We've weathered storms and basked in sunshine,
+          Our journey together has been nothing short of extraordinary. We&apos;ve weathered storms and basked in sunshine,
           each experience strengthening the bond we share. Your unwavering support and boundless love have been my
           anchor and my wings.
           <br />
@@ -34,7 +34,7 @@ export default function Letter() {
           unshakeable. You are my partner, my confidant, and my greatest love.
           <br />
           <br />
-          Here's to our past, our present, and our beautiful future together.
+          Here&apos;s to our past, our present, and our beautiful future together.
           <br />
           <br />
           Forever yours,

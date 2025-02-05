@@ -24,7 +24,7 @@ export default function LetterSection() {
           profound.
           <br />
           <br />
-          You are not just my partner, but my best friend, my confidant, and my soulmate. Together, we've created a
+          You are not just my partner, but my best friend, my confidant, and my soulmate. Together, we&apos;ve created a
           world of our own, filled with laughter, adventure, and endless love.
           <br />
           <br />
